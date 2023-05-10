@@ -1,0 +1,68 @@
+<svg id="e6335a25-281c-46ba-b03f-9740283378fb" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
+                    viewBox="0 0 339.89 339.89">
+                    <path
+                        d="M249,145.12,197.4,223.56a14.39,14.39,0,0,1-18.67,8.08L87.09,215.06a14.4,14.4,0,0,1-8.79-16.28,11.28,11.28,0,0,1,1.43-3.57l43.93-72.54a14.38,14.38,0,0,1,18.67-8.07l96.42,11.59a11.36,11.36,0,0,1,5.61,2.24l0,0A14.37,14.37,0,0,1,249,145.12Z"
+                        fill="#985323" />
+                    <path
+                        d="M231.78,71.94v105a22.69,22.69,0,0,1-22.69,22.69H109.25a22.7,22.7,0,0,1-22.7-22.69v-118a22.7,22.7,0,0,1,22.7-22.69h86.83Z"
+                        fill="#e5edfa" stroke="#b9c9dc" stroke-miterlimit="10" stroke-width="1.38" />
+                    <path d="M231.78,152.87v24.06a22.69,22.69,0,0,1-22.69,22.69h-20.7l4.47-4.81Z" fill="#b9c9dc" />
+                    <path d="M204,199.48H160.82l.6-.88c2.9-4.23,11.19-6.31,18.51-4.63l11.89,2.73Z" fill="#b9c9dc" />
+                    <path
+                        d="M281.89,233.51a14,14,0,0,1-3.28,2L132.78,298.58a14.64,14.64,0,0,1-3.85,1.06,14.27,14.27,0,0,1-14.9-8.49L79.22,210.7a14.25,14.25,0,0,1-.47-10.1,14.27,14.27,0,0,0,9,14.1l85.14-.09a14.26,14.26,0,0,0,18.51-8l56.85-61.26a14.23,14.23,0,0,0-4.53-16.52,14.1,14.1,0,0,1,7.52,7.46L286,216.74A14.28,14.28,0,0,1,281.89,233.51Z"
+                        fill="#ff9833" stroke="#985323" stroke-miterlimit="10" stroke-width="0.92" />
+                    <path
+                        d="M281.89,233.51a14,14,0,0,1-3.28,2L132.78,298.58a14.64,14.64,0,0,1-3.85,1.06l38.13-96.27a14.27,14.27,0,0,1,18.51-8Z"
+                        fill="#ff9833" stroke="#985323" stroke-miterlimit="10" stroke-width="0.92" />
+                    <path d="M231.75,71.91H219a22.69,22.69,0,0,1-22.69-22.69V36.44Z" fill="#b9c9dc" />
+                    <path
+                        d="M206.42,124.08V142.4a10.5,10.5,0,0,1-10.5,10.5H86.55V113.58H195.92A10.5,10.5,0,0,1,206.42,124.08Z"
+                        fill="#b9c9dc" />
+                    <g opacity="0.68">
+                        <path d="M183.71,146.71a26.89,26.89,0,0,1-.72,6.19H130.51a27,27,0,1,1,53.2-6.19Z"
+                            fill="#b9c9dc" />
+                    </g>
+                    <g opacity="0.68">
+                        <path
+                            d="M170.93,149.65a13.9,13.9,0,0,1-.38,3.25H143a14.45,14.45,0,0,1-.37-3.25,14.18,14.18,0,1,1,28.35,0Z"
+                            fill="#b9c9dc" />
+                    </g>
+                    <path
+                        d="M164.61,165.55l-4.37,8.79a3.36,3.36,0,0,1-6.25-1.68l-.18-32.19a4.34,4.34,0,0,1,7-3.42l22.33,17.73a4.25,4.25,0,0,1,1.65,3.45c0,2.47-2.48,3.29-4.94,3.1l-7-.93L180,170.7a5.86,5.86,0,0,1-2.48,8.7h0a5.87,5.87,0,0,1-7.63-2.86Z"
+                        fill="#b9c9dc" />
+                    <path
+                        d="M210.32,111v18.31a10.51,10.51,0,0,1-10.51,10.51H69.31A10.51,10.51,0,0,1,58.8,129.26V111a10.51,10.51,0,0,1,10.51-10.5h130.5A10.51,10.51,0,0,1,210.32,111Z"
+                        fill="#1d878e" />
+                    <path d="M186.13,133.58a26.89,26.89,0,0,1-.72,6.19H132.93a27,27,0,1,1,53.2-6.19Z" fill="#026d74"
+                        opacity="0.68" />
+                    <path
+                        d="M173.34,136.52a14.52,14.52,0,0,1-.37,3.25h-27.6a14,14,0,0,1-.38-3.25,14.18,14.18,0,1,1,28.35,0Z"
+                        fill="#026d74" opacity="0.84" />
+                    <rect x="71.08" y="117.63" width="98.98" height="4.96" rx="2.48" fill="#baffe7" />
+                    <polyline points="177.01 114.53 186.98 124.5 200.13 111.36" fill="none" stroke="#baffe7"
+                        stroke-linecap="round" stroke-linejoin="round" stroke-width="5.13" />
+                    <path
+                        d="M165.92,160.36l-4.37,8.79a3.36,3.36,0,0,1-6.25-1.68l-.18-32.19a4.34,4.34,0,0,1,7-3.42l22.33,17.73a4.25,4.25,0,0,1,1.65,3.46c0,2.46-2.48,3.28-4.94,3.09l-7-.93,7.09,10.3a5.86,5.86,0,0,1-2.48,8.7h0a5.87,5.87,0,0,1-7.63-2.86Z"
+                        fill="#fff" stroke="#1d878e" stroke-miterlimit="10" stroke-width="1.38" />
+                    <line x1="134.96" y1="45.33" x2="134.96" y2="84.45" fill="none" stroke="#1d878e"
+                        stroke-linecap="round" stroke-linejoin="round" stroke-width="6.94" />
+                    <polyline points="114.95 71.11 134.96 87.56 154.17 71.11" fill="none" stroke="#1d878e"
+                        stroke-linecap="round" stroke-linejoin="round" stroke-width="6.94" />
+                    <line x1="29.39" y1="213.83" x2="58.8" y2="213.83" fill="none" stroke="#1d878e"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.77" />
+                    <line x1="44.1" y1="199.12" x2="44.1" y2="228.53" fill="none" stroke="#1d878e"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.77" />
+                    <line x1="263.92" y1="100.45" x2="310.5" y2="100.45" fill="none" stroke="#ff9833"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="4.38" />
+                    <line x1="287.21" y1="77.16" x2="287.21" y2="123.74" fill="none" stroke="#ff9833"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="4.38" />
+                    <line x1="289.88" y1="171.77" x2="307.3" y2="171.77" fill="none" stroke="#d8742e"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.64" />
+                    <line x1="298.59" y1="163.06" x2="298.59" y2="180.48" fill="none" stroke="#d8742e"
+                        stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.64" />
+                    <circle cx="49.6" cy="71.91" r="6.57" fill="none" stroke="#ff9833" stroke-linecap="round"
+                        stroke-miterlimit="10" stroke-width="3.69" />
+                    <circle cx="242.94" cy="297.08" r="6.57" fill="none" stroke="#cad6e8" stroke-linecap="round"
+                        stroke-miterlimit="10" stroke-width="4.38" />
+                    <circle cx="243.11" cy="42.48" r="3.99" fill="#d8742e" />
+                </svg>
